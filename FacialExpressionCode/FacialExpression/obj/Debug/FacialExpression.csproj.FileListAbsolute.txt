@@ -1,0 +1,26 @@
+F:\old80\Projects\vdot\old\fe\Facial Expression Recognition Using Facial  Movement Features\Facial Expression Recognition Using Facial  Movement Features\SOURCE CODE\Emotion Detaction\bin\Debug\FacialExpression.exe
+F:\old80\Projects\vdot\old\fe\Facial Expression Recognition Using Facial  Movement Features\Facial Expression Recognition Using Facial  Movement Features\SOURCE CODE\Emotion Detaction\bin\Debug\FacialExpression.pdb
+F:\old80\Projects\vdot\old\fe\Facial Expression Recognition Using Facial  Movement Features\Facial Expression Recognition Using Facial  Movement Features\SOURCE CODE\Emotion Detaction\obj\Debug\ResolveAssemblyReference.cache
+F:\old80\Projects\vdot\old\fe\Facial Expression Recognition Using Facial  Movement Features\Facial Expression Recognition Using Facial  Movement Features\SOURCE CODE\Emotion Detaction\obj\Debug\CSharpFilters.Convolution.resources
+F:\old80\Projects\vdot\old\fe\Facial Expression Recognition Using Facial  Movement Features\Facial Expression Recognition Using Facial  Movement Features\SOURCE CODE\Emotion Detaction\obj\Debug\sobel_filtering.Form1.resources
+F:\old80\Projects\vdot\old\fe\Facial Expression Recognition Using Facial  Movement Features\Facial Expression Recognition Using Facial  Movement Features\SOURCE CODE\Emotion Detaction\obj\Debug\sobel_filtering.Form2.resources
+F:\old80\Projects\vdot\old\fe\Facial Expression Recognition Using Facial  Movement Features\Facial Expression Recognition Using Facial  Movement Features\SOURCE CODE\Emotion Detaction\obj\Debug\sobel_filtering.Form_preview.resources
+F:\old80\Projects\vdot\old\fe\Facial Expression Recognition Using Facial  Movement Features\Facial Expression Recognition Using Facial  Movement Features\SOURCE CODE\Emotion Detaction\obj\Debug\CSharpFilters.Parameter.resources
+F:\old80\Projects\vdot\old\fe\Facial Expression Recognition Using Facial  Movement Features\Facial Expression Recognition Using Facial  Movement Features\SOURCE CODE\Emotion Detaction\obj\Debug\FacialExpression.Properties.Resources.resources
+F:\old80\Projects\vdot\old\fe\Facial Expression Recognition Using Facial  Movement Features\Facial Expression Recognition Using Facial  Movement Features\SOURCE CODE\Emotion Detaction\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\old80\Projects\vdot\old\fe\Facial Expression Recognition Using Facial  Movement Features\Facial Expression Recognition Using Facial  Movement Features\SOURCE CODE\Emotion Detaction\obj\Debug\GenerateResource-ResGen.read.5.tlog
+F:\old80\Projects\vdot\old\fe\Facial Expression Recognition Using Facial  Movement Features\Facial Expression Recognition Using Facial  Movement Features\SOURCE CODE\Emotion Detaction\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\old80\Projects\vdot\old\fe\Facial Expression Recognition Using Facial  Movement Features\Facial Expression Recognition Using Facial  Movement Features\SOURCE CODE\Emotion Detaction\obj\Debug\FacialExpression.exe
+F:\old80\Projects\vdot\old\fe\Facial Expression Recognition Using Facial  Movement Features\Facial Expression Recognition Using Facial  Movement Features\SOURCE CODE\Emotion Detaction\obj\Debug\FacialExpression.pdb
+D:\4.2\FacialExpressionSource\FacialExpression\bin\Debug\FacialExpression.exe
+D:\4.2\FacialExpressionSource\FacialExpression\bin\Debug\FacialExpression.pdb
+D:\4.2\FacialExpressionSource\FacialExpression\obj\Debug\FacialExpression.csprojResolveAssemblyReference.cache
+D:\4.2\FacialExpressionSource\FacialExpression\obj\Debug\CSharpFilters.Convolution.resources
+D:\4.2\FacialExpressionSource\FacialExpression\obj\Debug\sobel_filtering.Form1.resources
+D:\4.2\FacialExpressionSource\FacialExpression\obj\Debug\sobel_filtering.Form2.resources
+D:\4.2\FacialExpressionSource\FacialExpression\obj\Debug\sobel_filtering.Form_preview.resources
+D:\4.2\FacialExpressionSource\FacialExpression\obj\Debug\CSharpFilters.Parameter.resources
+D:\4.2\FacialExpressionSource\FacialExpression\obj\Debug\FacialExpression.Properties.Resources.resources
+D:\4.2\FacialExpressionSource\FacialExpression\obj\Debug\FacialExpression.csproj.GenerateResource.Cache
+D:\4.2\FacialExpressionSource\FacialExpression\obj\Debug\FacialExpression.exe
+D:\4.2\FacialExpressionSource\FacialExpression\obj\Debug\FacialExpression.pdb
